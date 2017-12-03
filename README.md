@@ -18,5 +18,4 @@ Fully-Connected CRF － [Efficient Inference in Fully Connected CRFs with Gaussi
 ## Image caption
 Show, Attend and Tell －　[Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
 
-Show, Tell －　[Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647)  
-source code －　[Github](https://github.com/tensorflow/models/tree/master/research/im2txt)
+Show, Tell －　[Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647), [Github](https://github.com/tensorflow/models/tree/master/research/im2txt)
