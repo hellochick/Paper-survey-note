@@ -22,3 +22,12 @@ Show, Tell －　[Lessons learned from the 2015 MSCOCO Image Captioning Challeng
 ## Seq2Seq
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 [Neural Machine Translation by Jointly Learning to Align and Translate)(https://arxiv.org/abs/1409.0473)
+
+## GANs
+[NIPS 2016 Workshop on Adversarial Training - Ian Goodfellow - Introduction to GANs](https://www.youtube.com/watch?v=RvgYvHyT15E)  
+
+BicycleGAN －　[Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586)  
+
+### Tensorflow tutorial on GANs
+[An introduction to Generative Adversarial Networks (with code in TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)  
+[Understanding and Implementing CycleGAN in TensorFlow](https://hardikbansal.github.io/CycleGANBlog/)  
